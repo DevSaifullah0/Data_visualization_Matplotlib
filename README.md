@@ -1,4 +1,4 @@
-**Netflix Data Visualization Project
+Netflix Data Visualization Project
 This project analyzes and visualizes Netflix movies and TV show dataset using Python (Pandas & Matplotlib).
 
 It explores key insights such as:
